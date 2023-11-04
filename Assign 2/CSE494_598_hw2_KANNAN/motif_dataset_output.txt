@@ -1,0 +1,6 @@
+RMS Output - K = 1000 score : 42  Consensus : AAAAAAGAGAGGGGT
+RMS Output - K = 10000 score : 39  Consensus : AAAAAAGAGAGGGGT
+RMS Output - K = 100000 score : 39  Consensus : AAAAAAGAGGGGGGT
+Gibbs Output - K = 1000 score : 41  Consensus : GAAAAAGAGGGGGGT
+Gibbs Output - K = 2000 score : 39  Consensus : CAAAAAAGAGGGGGG
+Gibbs Output - K = 10000 score : 40  Consensus : CAAAAAAAAGGGGGG
